@@ -1,0 +1,8 @@
+MINI-PROJECT
++ users post likh payenge
++ users create karne hai 
++ login and register 
++ logout 
++ post like 
++ post creation 
++ post deletion
